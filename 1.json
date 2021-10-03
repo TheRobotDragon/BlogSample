@@ -1,7 +1,7 @@
 {
     "posts":[
         {
-            "title": "This is page 2 ",
+            "title": "This is page 1 ",
             "image": "https://i.ibb.co/9nnf0pP/image1.jpg",
             "type": "News",
             "link": "/post?post=post1",
